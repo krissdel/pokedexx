@@ -10,7 +10,6 @@ import { useNavigate } from 'react-router-dom';
 type Props = {
     pokemon: Pokemon,
     borderColor?: string, //syntaxe propre a typescript
-    // id: number
 }
 
 
